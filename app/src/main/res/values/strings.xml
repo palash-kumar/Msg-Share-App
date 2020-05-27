@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MsgShareApp</string>
+    <string name="buttonSowToast">Toast</string>
+    <string name="enterMessage">Enter Your Message</string>
+    <string name="sendMessageToNextActivity">Send message to next Activity</string>
+
+    <string name="buttonWasClicked">Button was clicked!!</string>
+</resources>

@@ -3,21 +3,21 @@ Ref: [ Smartherd-YouTube](https://www.youtube.com/watch?v=XNFz97zqN-E&list=PLlxm
 Ref: [ Smartherd-GitHub](https://github.com/smartherd/MsgShareApp)
 
 Open Android Studio -> Start a new android project
-![Create New Project](https://github.com/palash-kumar/Msg-Share-App/tree/master/md-images/new_project_2.png "Create New Project")
+![Create New Project](https://github.com/palash-kumar/Msg-Share-App/blob/master/md-images/new_project_2.png "Create New Project")
 fig -Create New Project
 
 Than select target devices for which the app is being developed
-![Select Target Device](https://github.com/palash-kumar/Msg-Share-App/tree/master/md-images/select_device_1.png "Select Target Device")
+![Select Target Device](https://github.com/palash-kumar/Msg-Share-App/blob/master/md-images/select_device_1.png "Select Target Device")
 fig - Select Target Device
 
 check *Include Kotlin Support*
 
 then select activity type for your app, basically the template for your applicationo
-![Select Application Type](https://github.com/palash-kumar/Msg-Share-App/tree/master/md-images/select_type_of_application.png "Select Application Type")
+![Select Application Type](https://github.com/palash-kumar/Msg-Share-App/blob/master/md-images/select_type_of_application.png "Select Application Type")
 fig - Select Application Type
 
 Then name the activity and layout file. 
-![Configure Activity](https://github.com/palash-kumar/Msg-Share-App/tree/master/md-images/configure_activity.png "Configure Activity")
+![Configure Activity](https://github.com/palash-kumar/Msg-Share-App/blob/master/md-images/configure_activity.png "Configure Activity")
 fig - Configure Activity
 
 Click *Finish* to create the project:
